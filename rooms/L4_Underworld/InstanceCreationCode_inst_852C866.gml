@@ -1,0 +1,1 @@
+npc_text="I've been trying all day, but I just can't figure out a way up!";

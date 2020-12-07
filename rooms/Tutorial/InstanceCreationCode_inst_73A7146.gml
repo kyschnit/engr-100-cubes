@@ -1,0 +1,1 @@
+npc_text="Once you collect all the 3D objects in a room, you can go up to these portals and press " + global.key[global.keyInteract] + " to leave!"

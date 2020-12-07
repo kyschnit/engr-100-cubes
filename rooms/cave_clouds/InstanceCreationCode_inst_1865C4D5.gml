@@ -1,0 +1,1 @@
+npc_text="Welcome! I'm glad you came :) Remember though, you can only escape if you collect all 3 CUBES!";

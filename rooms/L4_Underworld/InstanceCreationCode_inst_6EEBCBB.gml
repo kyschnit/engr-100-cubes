@@ -1,0 +1,1 @@
+npc_text="I love the underworld!";

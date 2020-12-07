@@ -1,0 +1,1 @@
+npc_text="Sigh...It's so beautiful up here, isn't it?"

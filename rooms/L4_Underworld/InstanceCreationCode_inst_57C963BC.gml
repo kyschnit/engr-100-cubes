@@ -1,0 +1,1 @@
+npc_text="Phew! What a hike! The underworld is so big!";

@@ -1,0 +1,1 @@
+npc_text="LOOK ABOVE ME ;)";

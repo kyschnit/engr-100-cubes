@@ -1,0 +1,1 @@
+level_obj = instance_number(Collectible_obj); 

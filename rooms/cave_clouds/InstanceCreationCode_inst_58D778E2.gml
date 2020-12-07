@@ -1,0 +1,1 @@
+npc_text="Hey look! A CUBE!!!"
